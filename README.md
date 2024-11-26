@@ -22,10 +22,10 @@ This project, designed by IBM, demonstrates creating a data warehouse for a soli
 - **Foreign Keys**: Established table relationships
 - **Data Import**: Imported data from CSV files
 - **Grouping Sets**: Aggregate data by different dimensions
-- **Rollup Queries**: Summarized data by year, city, station
-- **Materialized Views**: Stored aggregated data for quick access
+- **Rollup Queries**: Summarised data by year, city, station
+- **Materialised Views**: Stored aggregated data for quick access
 
 ## Challenges and Learnings
-This was actually one of the more challenging projects provided by IBM, designing the layout on MySQL without phpadmin. I saw myself hand drawing the tables to figure out the best way to connect them. While challenging it was extremely engaging.
+This was actually one of the more challenging projects provided by IBM, designing the layout on MySQL without phpadmin. I saw myself hand drawing the tables to figure out the best way to connect them, I imposed this on myself so I can better learn how building a relational table works. While challenging it was extremely engaging.
 
 Time taken: Approximately 1 hour 20 minutes.
