@@ -26,6 +26,6 @@ This project, designed by IBM, demonstrates creating a data warehouse for a soli
 - **Materialized Views**: Stored aggregated data for quick access
 
 ## Challenges and Learnings
-This challenging project provided practical experience in data warehousing and advanced SQL queries.
+This was actually one of the more challenging projects provided by IBM, designing the layout on MySQL without phpadmin. I saw myself hand drawing the tables to figure out the best way to connect them. While challenging it was extremely engaging.
 
 Time taken: Approximately 1 hour 20 minutes.
